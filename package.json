@@ -2,7 +2,7 @@
   "name": "vue-storefront-api-prismic-connector",
   "version": "1.0.0",
   "author": "Agence Dn'D <contact@dnd.fr>",
-  "description": "Prismic Headless CMS for Vue Storefront API",
+  "description": "Vue Storefront API - Prismic Connector for Vue Storefront API",
   "repository": "github:Agence-DnD/vue-storefront-api-prismic-connector",
   "license": "MIT",
   "dependencies": {
