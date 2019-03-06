@@ -1,0 +1,16 @@
+{
+  "name": "prismic-cms",
+  "version": "1.0.0",
+  "author": "Yoann Vié <yoann.vie@dnd.fr>",
+  "description": "Prismic Headless CMS for Vue Storefront API",
+  "dependencies": {
+    "prismic-dom": "^2.1.0",
+    "prismic-javascript": "^1.5.0"
+  },
+  "keywords": [
+    "storefront",
+    "prismic",
+    "api",
+    "nodejs"
+  ]
+}

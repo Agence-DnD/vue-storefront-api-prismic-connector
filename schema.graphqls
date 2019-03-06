@@ -1,0 +1,24 @@
+type Query {
+    prismicCmsBlocks: [PrismicCmsBlock]!
+    prismicCmsPages: [PrismicCmsPage]!
+}
+
+type PrismicCmsBlock {
+    id: String!
+    identifier: String!
+    title: String!
+    content: String!
+    lang: String!
+    creation_time: String!
+    update_time: String!
+}
+
+type PrismicCmsPage {
+    id: String!
+    slug: String!
+    title: String!
+    content: String!
+    lang: String!
+    creation_time: String!
+    update_time: String!
+}
