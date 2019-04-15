@@ -4,6 +4,8 @@
 
 Vue Storefront API - Prismic Connector is a [Vue Storefront API](https://github.com/DivanteLtd/vue-storefront-api) extension that allows you to convert the content from Prismic Headless CMS API to html for Vue Storefront.
 
+Official extension page on the Vue Storefront forum: [Vue Storefront API - Prismic Connector](https://forum.vuestorefront.io/t/prismic-connector/160)
+
 ### Documentation:
 
 Vue Storefront API - Prismic Connector complete documentation is available [here](doc/summary.md).
